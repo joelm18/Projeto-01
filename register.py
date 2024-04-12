@@ -1,5 +1,3 @@
-import regex
-
 class Register:
 
   #Método construtor da classe
